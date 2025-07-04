@@ -1,0 +1,25 @@
+	Git
+
+	git config --global user.name "Your name"
+	git config --global user.email "your email"
+	============================================
+	for once using
+	git init  | создание скрытого файла .git
+	git remote add origin https://github.com/arzy-51-2/oop-51-2.git | 
+	------------------------------------------------------------------
+	for ussual using
+	git status  | состояние проэкта
+	git add .  | сохранить все в буфер обмена (невидимо)
+	git commit -m "1st commit"  | комментария - сохраняет текущий момент 
+	git push origin main|master
+	git restore . | Возвращает (n количество раз)
+	git reset . | удаляет все в буфер обмена после добавления
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	fear: added auth user
+	update: reset password user
+	fix: bag create news in top bar
+
+
+
+
+
