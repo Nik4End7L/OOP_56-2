@@ -8,18 +8,34 @@
 	git remote add origin https://github.com/arzy-51-2/oop-51-2.git | 
 	------------------------------------------------------------------
 	for ussual using
-	git status  | состояние проэкта
-	git add .  | сохранить все в буфер обмена (невидимо)
+	git status  | Состояние проэкта
+	git add .  | Сохранить все в буфер обмена (невидимо)
 	git commit -m "1st commit"  | комментария - сохраняет текущий момент 
 	git push origin main|master
 	git restore . | Возвращает (n количество раз)
-	git reset . | удаляет все в буфер обмена после добавления
+	git reset . | Удаляет все в буфер обмена после добавления
+	git branch | Для просмотра веток
+	git branch branch_name | Создание ветки
+	git switch branch_name | Переход по веткам
+	git merge branc_name | Слияние
 	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-	fear: added auth user
+	feat: added auth user
+	feat/name_branch
 	update: reset password user
+	updtae/name_branch
 	fix: bag create news in top bar
+	fix/name_branch
+
+	hot_fix/name_branch
+
+	realise_1.0.0
+
+
+	stage | develop
+	production | 
 
 
 
-
-
+@NikEndL
+Nik4End7L
+GITLAB
