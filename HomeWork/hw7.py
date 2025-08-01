@@ -97,3 +97,5 @@ if name == 'main':
     all_books_after_delete = get_all_books()
     for book in all_books_after_delete:
         print(f"Книга: {book[0]}, Автор: {book[1]}, Читатель: {book[2]}")
+
+# broken
